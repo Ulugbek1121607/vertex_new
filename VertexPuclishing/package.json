@@ -1,0 +1,20 @@
+{
+  "name": "vertex-publishing",
+  "version": "1.0.0",
+  "description": "Vertex Science Publishing House Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "multer": "^1.4.2",
+    "body-parser": "^1.19.0",
+    "uuid": "^8.3.2"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
